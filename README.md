@@ -12,7 +12,7 @@ This is a transparent login page created with HTML and CSS.
 
 ## Screenshot
 
-[](./images/screenshot.png)
+![](./images/screenshot.png)
 
 ## Link
 
