@@ -7,7 +7,7 @@
 main {
     width: 100vw;
     height: 100vh;
-    background-image: url("./background/background-img.jpg");
+    background-image: url("./images/background-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
