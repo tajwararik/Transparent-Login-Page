@@ -16,7 +16,7 @@ This is a transparent login page created with HTML and CSS.
 
 ## Link
 
-- [Live url]()
+- [Live url](https://tajwararik.github.io/Transparent-Login-page/)
 
 ## Build with
 
